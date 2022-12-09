@@ -9,7 +9,7 @@ import java.util.Random;
 public class PasswordGenerator {
   public static void main(String[] args) {
     // Définissez la longueur du mot de passe
-    int passwordLength = 10;
+    int passwordLength = 20;
 
     // Créez un générateur de nombres aléatoires
     Random random = new Random();
